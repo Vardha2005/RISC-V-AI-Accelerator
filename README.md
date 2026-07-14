@@ -51,10 +51,13 @@ Report/
 - ✅ Repository Created
 - ✅ Program Counter
 - ✅ Program Counter Testbench
-- ⏳ Instruction Memory
+- ✅ Instruction Memory
+- ✅ Instruction Memory Testbench
 - ⏳ Register File
 - ⏳ ALU
-- ⏳ CPU Integration
+- ⏳ Decoder
+- ⏳ Control Unit
+- ⏳ Data Memory
 - ⏳ AI Accelerator
 
 ---
