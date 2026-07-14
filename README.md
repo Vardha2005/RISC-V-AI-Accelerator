@@ -85,13 +85,12 @@ Report/
 - ✅ Write Back MUX Testbench
   - CPU Integration done
 
-## AI Accelerator
 
-- ✅ Processing Element (MAC Unit)
-- ## AI Accelerator Progress
+- ## AI Accelerator
 
-- ✅ Processing Element
+- ✅ Processing Element (MAC)
 - ✅ Simplified Systolic Array
+- ✅ Accelerator Controller
 
 ---
 
