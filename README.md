@@ -56,7 +56,8 @@ Report/
 - ✅ Register File
 - ✅ Register File Testbench
 
-- ⏳ ALU
+- ✅ ALU
+- ✅ ALU Testbench
 
 - ⏳ Immediate Generator
 
