@@ -88,6 +88,10 @@ Report/
 ## AI Accelerator
 
 - ✅ Processing Element (MAC Unit)
+- ## AI Accelerator Progress
+
+- ✅ Processing Element
+- ✅ Simplified Systolic Array
 
 ---
 
