@@ -1,2 +1,68 @@
-# RISC-V-AI-Accelerator
-32-bit RV32I RISC-V Processor integrated with a 4×4 Systolic Array Accelerator for Edge AI Inference on FPGA.
+# RISC-V Processor with 4×4 AI Systolic Array Accelerator
+
+## Overview
+
+This repository contains the design and implementation of a **32-bit RV32I RISC-V Processor** integrated with a **4×4 Systolic Array Accelerator** for Edge AI inference.
+
+The processor is being developed from scratch using **Verilog HDL** with the goal of FPGA implementation and verification.
+
+---
+
+## Features
+
+- 32-bit RV32I Processor
+- Modular RTL Design
+- Program Counter
+- Instruction Memory *(Coming Soon)*
+- Register File *(Coming Soon)*
+- ALU *(Coming Soon)*
+- Decoder *(Coming Soon)*
+- Control Unit *(Coming Soon)*
+- Data Memory *(Coming Soon)*
+- 4×4 Systolic Array Accelerator *(Coming Soon)*
+
+---
+
+## Folder Structure
+
+```
+RTL/
+Testbench/
+Simulation/
+FPGA/
+Images/
+docs/
+Report/
+```
+
+---
+
+## Tools
+
+- Verilog HDL
+- Xilinx Vivado
+- Git
+- GitHub
+
+---
+
+## Current Progress
+
+- ✅ Repository Created
+- ✅ Program Counter
+- ✅ Program Counter Testbench
+- ⏳ Instruction Memory
+- ⏳ Register File
+- ⏳ ALU
+- ⏳ CPU Integration
+- ⏳ AI Accelerator
+
+---
+
+## Author
+
+**Vardha Goyal**
+
+Electronics and VLSI Engineering
+
+Thapar Institute of Engineering and Technology
