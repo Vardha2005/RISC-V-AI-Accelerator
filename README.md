@@ -65,7 +65,8 @@ Report/
 
 - ⏳ Decoder
 
-- ⏳ Control Unit
+- ✅ Control Unit
+- ✅ Control Unit Testbench
 
 - ⏳ Data Memory
 
