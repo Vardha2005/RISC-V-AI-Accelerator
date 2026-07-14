@@ -72,6 +72,9 @@ Report/
 - ✅ Data Memory
 - ✅ Data Memory Testbench
 
+- - ✅ PC Adder
+- ✅ PC Adder Testbench
+
 - ⏳ CPU Integration
 
 - ⏳ AI Accelerator
