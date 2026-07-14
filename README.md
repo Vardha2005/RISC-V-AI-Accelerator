@@ -45,19 +45,29 @@ Report/
 - GitHub
 
 ---
-
 ## Current Progress
 
-- ✅ Repository Created
 - ✅ Program Counter
 - ✅ Program Counter Testbench
+
 - ✅ Instruction Memory
 - ✅ Instruction Memory Testbench
-- ⏳ Register File
+
+- ✅ Register File
+- ✅ Register File Testbench
+
 - ⏳ ALU
+
+- ⏳ Immediate Generator
+
 - ⏳ Decoder
+
 - ⏳ Control Unit
+
 - ⏳ Data Memory
+
+- ⏳ CPU Integration
+
 - ⏳ AI Accelerator
 
 ---
