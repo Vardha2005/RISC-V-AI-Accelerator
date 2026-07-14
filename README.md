@@ -63,7 +63,8 @@ Report/
 
 ✅ Immediate Generator Testbench
 
-- ⏳ Decoder
+- ✅ ALU Control
+- ✅ ALU Control Testbench
 
 - ✅ Control Unit
 - ✅ Control Unit Testbench
