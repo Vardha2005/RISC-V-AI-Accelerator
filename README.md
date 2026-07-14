@@ -80,6 +80,9 @@ Report/
 
    - ✅ Branch Adder
 - ✅ Branch Adder Testbench
+ 
+-  ✅ Write Back MUX
+- ✅ Write Back MUX Testbench
 - ⏳ CPU Integration
 
 - ⏳ AI Accelerator
