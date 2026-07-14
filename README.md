@@ -83,9 +83,11 @@ Report/
  
 -  ✅ Write Back MUX
 - ✅ Write Back MUX Testbench
-- ⏳ CPU Integration
+  - CPU Integration done
 
-- ⏳ AI Accelerator
+## AI Accelerator
+
+- ✅ Processing Element (MAC Unit)
 
 ---
 
