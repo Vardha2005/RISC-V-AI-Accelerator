@@ -59,7 +59,9 @@ Report/
 - ✅ ALU
 - ✅ ALU Testbench
 
-- ⏳ Immediate Generator
+✅ Immediate Generator
+
+✅ Immediate Generator Testbench
 
 - ⏳ Decoder
 
