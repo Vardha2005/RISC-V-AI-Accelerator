@@ -69,7 +69,8 @@ Report/
 - ✅ Control Unit
 - ✅ Control Unit Testbench
 
-- ⏳ Data Memory
+- ✅ Data Memory
+- ✅ Data Memory Testbench
 
 - ⏳ CPU Integration
 
