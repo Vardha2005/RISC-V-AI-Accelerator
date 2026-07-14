@@ -1,0 +1,15 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache
+*.tmp
+*.runs
+*.sim
+*.Xil
+*.wdb
+*.vcd
+
+# Backup files
+*.bak
+*.swp
