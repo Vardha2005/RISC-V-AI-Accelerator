@@ -77,6 +77,9 @@ Report/
  
 - ✅ 2:1 Multiplexer
 - ✅ Multiplexer Testbench
+
+   - ✅ Branch Adder
+- ✅ Branch Adder Testbench
 - ⏳ CPU Integration
 
 - ⏳ AI Accelerator
