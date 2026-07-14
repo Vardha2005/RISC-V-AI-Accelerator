@@ -74,7 +74,9 @@ Report/
 
 - - ✅ PC Adder
 - ✅ PC Adder Testbench
-
+ 
+- ✅ 2:1 Multiplexer
+- ✅ Multiplexer Testbench
 - ⏳ CPU Integration
 
 - ⏳ AI Accelerator
